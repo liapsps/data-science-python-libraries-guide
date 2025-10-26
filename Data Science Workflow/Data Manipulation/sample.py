@@ -1,0 +1,1 @@
+# criação dos diretórios necessários
