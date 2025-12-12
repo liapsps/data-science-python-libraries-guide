@@ -83,19 +83,19 @@ This is a dynamic project with ongoing updates. Here's the plan:
 
 1. **Initial Setup**
    - ✅ Create folders and templates for each theme.
-   - 🔄 Add basic examples for NumPy and Pandas. (In Progress ⬅️)
+   - ✅ Add basic examples for NumPy and Pandas.
 
 2. **Expand Visualization Examples**
-   - Add advanced plots in Seaborn.
-   - Create interactive dashboards with Plotly.
+   - ✅ Create interactive dashboards with Plotly.
+   - 🔄 Add advanced plots in Seaborn. (In Progress ⬅️)
 
 3. **Machine Learning Use Cases**
-   - Include real-world scenarios for regression and classification.
-   - Add examples with XGBoost.
+   - ✅ Include examples with Scikit-learn (regression and classification).
+   - ✅ Add examples with XGBoost.
 
 4. **Polishing and Documentation**
-   - Refine code comments.
-   - Add Markdown explanations for workflows.
+   - 🔄 Refine code comments and add detailed explanations. (In Progress ⬅️)
+   - 🔄 Add Markdown explanations for workflows. (In Progress ⬅️)
 
 ---
 
